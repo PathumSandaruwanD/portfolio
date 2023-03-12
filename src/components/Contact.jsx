@@ -9,9 +9,6 @@ import { slideIn } from "../utils/motion";
 
 const Contact = () => {
 
-  //service_l9ukt4n
-  //template_3x24w7i
-  //LamBOP5y3KVy5SHw5
   const formRef = useRef();
   const [form, setForm] = useState({
     name: "",
