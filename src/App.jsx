@@ -13,9 +13,8 @@ const App=() =>{
           </div>
           <About></About>
           <Experience></Experience>
-          <Tech></Tech>
           <Works></Works>
-          <Feedbacks></Feedbacks>
+          <Tech></Tech>
         </div>
         <div>
           <Contact></Contact>
