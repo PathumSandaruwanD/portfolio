@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bean Bot
+* source:	https://sketchfab.com/3d-models/bean-bot-9b1c86da128147e59bdbb9092ad40d2e
+* author:	nataliedesign (https://sketchfab.com/nataliedesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bean Bot" (https://sketchfab.com/3d-models/bean-bot-9b1c86da128147e59bdbb9092ad40d2e) by nataliedesign (https://sketchfab.com/nataliedesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Last Stronghold (animated)
+* source:	https://sketchfab.com/3d-models/the-last-stronghold-animated-6b4ac951cefb43a791b2bd084b53a201
+* author:	ConradJustin (https://sketchfab.com/ConradJustin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Last Stronghold (animated)" (https://sketchfab.com/3d-models/the-last-stronghold-animated-6b4ac951cefb43a791b2bd084b53a201) by ConradJustin (https://sketchfab.com/ConradJustin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
