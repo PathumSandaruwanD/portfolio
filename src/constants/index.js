@@ -24,6 +24,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  servlet,
+  python,
+  bootstrap,
 } from "../assets";
 
 export const navLinks = [
@@ -98,20 +101,24 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Bootstrap",
+    icon: bootstrap,
   },
   {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
+    name: "python",
+    icon: python,
   },
   {
     name: "docker",
     icon: docker,
+  },
+  {
+    name: "servlet",
+    icon: servlet
+  },
+  {
+    name: "git",
+    icon: git,
   },
 ];
 

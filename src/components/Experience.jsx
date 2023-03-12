@@ -1,8 +1,5 @@
 import React from 'react'
-import {
-  VerticalTimeline,
-  VerticalTimelineElement,
-} from "react-vertical-timeline-component";
+import {VerticalTimeline,VerticalTimelineElement,} from "react-vertical-timeline-component";
 import { motion } from "framer-motion";
 
 import "react-vertical-timeline-component/style.min.css";
@@ -64,7 +61,7 @@ const Experience = () => {
           What I have done so far
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
+         Project Experience.
         </h2>
       </motion.div>
 
@@ -82,4 +79,4 @@ const Experience = () => {
   )
 }
 
-export default Experience
+export default SectionWarapper (Experience,"work")
