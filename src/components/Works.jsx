@@ -48,11 +48,12 @@ const Works = () => {
     <>
       <motion.div variants={textVariant()} className="flex flex-col items-center justify-center text-center">
         <p className={`${styles.sectionSubText} text-center`}>
-          What I have done so far
+         find me on
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Project Experience.
+          Git HUb. 
         </h2>
+        <img src={github} alt='source code' className='w-1/12 h-1/12 object-contain'/> 
       </motion.div>
 
       <div className='w-full flex '>

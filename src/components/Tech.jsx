@@ -9,7 +9,7 @@ import { motion } from 'framer-motion'
 
 const Tech = () => {
   return(
-    <div className='flex flex-col items-center justify-center gap-10'>
+    <div className='flex flex-col items-center justify-center gap-10 pb-10'>
       <div className='text-center'>
         <p className={`${styles.sectionSubText}`}>
          Hand on experience
