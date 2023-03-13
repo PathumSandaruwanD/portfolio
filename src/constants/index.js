@@ -215,67 +215,79 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Fitness Center",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users get in touch with their gym and make transactions via online methos.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
+        name: "mysql",
+        color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
-        color: "pink-text-gradient",
+        name: "php",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "bootstrap",
+        color: "blue-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/PathumSandaruwanD/2ndYearProject",
   },
   {
-    name: "Job IT",
+    name: "Online Liquor Purchasing & Store Management System",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to purchase all kind of liquor and helps stoer owners to run business in fully digitalized enviornment.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
+        name: "flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
-        color: "green-text-gradient",
+        name: "firebase",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/PathumSandaruwanD/3.2-project.git",
+  },
+  {
+    name: "Calculator App",
+    description:
+      "An entry level calculator that helps users to do basic mathematical functions.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
       },
       {
         name: "css",
-        color: "pink-text-gradient",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/PathumSandaruwanD/calculatorOne.git",
   },
 ];
 

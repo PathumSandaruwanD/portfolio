@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        As a software developer pursuing a degree in Industrial Information Technology at Uva Wellassa University, I have a solid understanding of Java, JavaScript, and Python, as well as experience with React JS. I am passionate about solving real-world problems through technology and am committed to collaborating closely with clients to create efficient, scalable, and user-friendly solutions. Looking for an intern who is eager to learn and make an impact? Let's work together to bring your ideas to life.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
